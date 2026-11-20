@@ -1,0 +1,2 @@
+# -Game-Review-Sentiment-and-Frustration-Detector
+An NLP-based project developed to analyze mobile game reviews, determine sentiment, and identify player frustration points (such as monetization/IAP issues and performance bugs). This repository includes the complete data preprocessing pipeline, machine learning and deep learning models, performance comparisons, and an interactive Streamlit Web UI.
